@@ -1,0 +1,61 @@
+body {
+    background-color:rgb(195, 253, 255);
+}
+
+*{
+    margin:7px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Calibri';
+}
+
+h1 {
+    margin: 0px;
+    color:blue;
+    font-size: 50px;
+}
+
+.maior {
+margin: 0px;
+padding: 0px;
+width: fit-content;
+}
+
+.menor {
+display: inline-block;
+background-color:rgb(195, 253, 255);
+margin: 10px 0px;
+padding: 10px;
+width: fit-content;
+border: solid 5px blue;
+border-radius: 15px;
+}
+
+.paragrafo {
+    color: blue;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+button {
+    color: blue;
+    font-size: 20px;
+}
+
+#soma {
+    color:blue;
+    font-size: 22px;
+    margin: 0px;
+}
+
+.caixa {
+    color: blue;
+    font-size: 15px;
+    padding: 1px;
+    }
+
+.resposta {
+margin: 1px 0px;
+padding: 0px;
+width: fit-content;
+}

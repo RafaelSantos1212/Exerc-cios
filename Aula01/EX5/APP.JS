@@ -1,0 +1,1 @@
+console.log('a idade de fulano é 17')

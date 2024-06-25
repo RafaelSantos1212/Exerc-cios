@@ -1,0 +1,81 @@
+body {
+    background-color:rgb(195, 253, 255);
+}
+
+*{
+    margin:7px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Calibri';
+}
+
+h1 {margin-left: 3px;
+    color:blue;
+    font-size: 50px;}
+h2 {color:blue;}
+
+.maior {
+margin: 0px;
+padding: 0px;
+width: fit-content;
+}
+
+.menor {
+display: inline-block;
+background-color:rgb(195, 253, 255);
+margin: 10px 5px;
+padding: 10px;
+width: fit-content;
+border: solid 4px blue;
+border-radius: 10px;
+}
+
+.paragrafo {
+    color: blue;
+    font-size: 20px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+button {
+    color: blue;
+    font-size: 20px;
+}
+
+#textofinal {
+    font-size: 22px;
+    margin-left: 5px;
+}
+
+.caixa {
+    color: blue;
+    font-size: 15px;
+    padding: 0 auto;
+    margin: 0 auto;
+    width: 120px;
+    }
+
+.resposta {
+margin: 1px 0px;
+padding: 0px;
+width: fit-content;
+display: inline-block;
+}
+
+.zul {
+color: blue;
+margin-left: px;
+font-size: 18px;
+}
+
+.vermelho{
+    border-color: red;
+}
+
+.passou{
+    color:green
+}
+
+.reprovou{
+    color:red
+}
